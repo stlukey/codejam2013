@@ -3,3 +3,6 @@
 *.in
 *.out
 
+# DO NOT track temp files
+*~
+
